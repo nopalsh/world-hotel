@@ -19,11 +19,11 @@ Semua proyek dalam repositori ini dilisensikan oleh GitHub di bawah Apache Licen
 
 Website ini dikembangkan untuk layanan pemesanan kamar hotel. Admin dapat mengelola status pembayaran dan booking kamar, serta menambah dan mengedit informasi kamar, client melakukan booking kamar hotel.
 
-**Screenshot Admin**:
-- ![Screenshot Admin](https://github.com/nopalsh/pending-web-projects/blob/main/World%20Hotel/Admin%20Screenshot/screencapture-localhost-hotel-fix-admin-data-booking-php-2024-07-08-10_19_53.png)
-
 **Screenshot Client**:
-- ![Screenshot Client](https://github.com/nopalsh/pending-web-projects/blob/main/World%20Hotel/Client%20Screenshot/screencapture-localhost-hotel-fix-booking-php-2024-07-08-10_18_37.png)
+- ![Screenshot Client](https://github.com/nopalsh/world-hotel/blob/main/World%20Hotel/Client%20Screenshot/screencapture-localhost-hotel-fix-about-php-2024-07-08-10_19_27.png)
+
+**Screenshot Admin**:
+- ![Screenshot Admin](https://github.com/nopalsh/world-hotel/blob/main/World%20Hotel/Admin%20Screenshot/screencapture-localhost-hotel-fix-admin-2024-07-08-10_19_47.png)
 
 **Download File**:
 - [Download File Website World Hotel](https://raw.githubusercontent.com/nopalsh/pending-web-projects/main/World%20Hotel/World%20Hotel.zip)
@@ -31,8 +31,7 @@ Website ini dikembangkan untuk layanan pemesanan kamar hotel. Admin dapat mengel
 - [Lihat Semua Screenshot Website World Hotel (Admin)](https://github.com/nopalsh/pending-web-projects/tree/main/World%20Hotel/Admin%20Screenshot)
 - [Lihat Semua Screenshot Website World Hotel (Client)](https://github.com/nopalsh/pending-web-projects/tree/main/World%20Hotel/Client%20Screenshot)
 
-atau download semua file via [Google Drive](https://drive.google.com/drive/folders/1gUxMbK7adSH_VLIbiCzOVtGZrHxYnz7N?usp=sharing)
-
+atau download semua file via [Google Drive]()
 
 ---
 

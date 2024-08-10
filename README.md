@@ -31,8 +31,6 @@ Website ini dikembangkan untuk layanan pemesanan kamar hotel. Admin dapat mengel
 - [Lihat Semua Screenshot Website World Hotel (Admin)](https://github.com/nopalsh/world-hotel/tree/main/World%20Hotel/Admin%20Screenshot)
 - [Lihat Semua Screenshot Website World Hotel (Client)](https://github.com/nopalsh/world-hotel/tree/main/World%20Hotel/Client%20Screenshot)
 
-atau download semua file via [Google Drive]()
-
 ---
 
 ## 💻 Teknologi yang Digunakan

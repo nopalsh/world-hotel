@@ -59,4 +59,4 @@ Note:
 
 Untuk ke halaman admin world hotel tinggal search di browser ke: localhost/nama-folder/admin (contoh: localhost/World-Hotel/admin)
 
-Copyright [2024] [Bagas Farhandinata Putra
+Copyright [2024] [Bagas Farhandinata Putra]

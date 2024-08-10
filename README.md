@@ -1,6 +1,6 @@
 # ⏳ [Web Projects] World - Hotel (Booking Hotel)
 
-Ini dokumentasi dari beberapa proyek web yang sudah selesai 99%. Dokumentasi mencakup deskripsi serta screenshot dari setiap halaman, serta file-file yang menyertakan versi lengkap dari website beserta database. Proyek-proyek yang ada di sini meliputi aplikasi web untuk jasa ekspedisi, pelacakan pengiriman barang, dan pemesanan kamar hotel.
+Ini dokumentasi dari beberapa proyek web yang sudah selesai 99%. Dokumentasi mencakup deskripsi serta screenshot dari setiap halaman, serta file-file yang menyertakan versi lengkap dari website beserta database.
 
 ## 📜 Tentang Lisensi
 
@@ -26,10 +26,10 @@ Website ini dikembangkan untuk layanan pemesanan kamar hotel. Admin dapat mengel
 - ![Screenshot Admin](https://github.com/nopalsh/world-hotel/blob/main/World%20Hotel/Admin%20Screenshot/screencapture-localhost-hotel-fix-admin-2024-07-08-10_19_47.png)
 
 **Download File**:
-- [Download File Website World Hotel](https://raw.githubusercontent.com/nopalsh/pending-web-projects/main/World%20Hotel/World%20Hotel.zip)
-- [Download Dokumentasi (Word) Website World Hotel](https://raw.githubusercontent.com/nopalsh/pending-web-projects/main/World%20Hotel/Website%20World%20Hotel.docx)
-- [Lihat Semua Screenshot Website World Hotel (Admin)](https://github.com/nopalsh/pending-web-projects/tree/main/World%20Hotel/Admin%20Screenshot)
-- [Lihat Semua Screenshot Website World Hotel (Client)](https://github.com/nopalsh/pending-web-projects/tree/main/World%20Hotel/Client%20Screenshot)
+- [Download File Website World Hotel](https://raw.githubusercontent.com/nopalsh/world-hotel/main/World%20Hotel/World%20Hotel.zip)
+- [Download Dokumentasi (Word) Website World Hotel](https://raw.githubusercontent.com/nopalsh/world-hotel/main/World%20Hotel/Website%20World%20Hotel.docx)
+- [Lihat Semua Screenshot Website World Hotel (Admin)](https://github.com/nopalsh/world-hotel/tree/main/World%20Hotel/Admin%20Screenshot)
+- [Lihat Semua Screenshot Website World Hotel (Client)](https://github.com/nopalsh/world-hotel/tree/main/World%20Hotel/Client%20Screenshot)
 
 atau download semua file via [Google Drive]()
 

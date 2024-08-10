@@ -20,7 +20,7 @@ Semua proyek dalam repositori ini dilisensikan oleh GitHub di bawah Apache Licen
 Website ini dikembangkan untuk layanan pemesanan kamar hotel. Admin dapat mengelola status pembayaran dan booking kamar, serta menambah dan mengedit informasi kamar, client melakukan booking kamar hotel.
 
 **Screenshot Client**:
-- ![Screenshot Client](https://github.com/nopalsh/world-hotel/blob/main/World%20Hotel/Client%20Screenshot/screencapture-localhost-hotel-fix-about-php-2024-07-08-10_19_27.png)
+- ![Screenshot Client](https://github.com/nopalsh/world-hotel/blob/main/World%20Hotel/Client%20Screenshot/screencapture-localhost-hotel-fix-index-php-2024-07-08-10_17_53.png)
 
 **Screenshot Admin**:
 - ![Screenshot Admin](https://github.com/nopalsh/world-hotel/blob/main/World%20Hotel/Admin%20Screenshot/screencapture-localhost-hotel-fix-admin-2024-07-08-10_19_47.png)

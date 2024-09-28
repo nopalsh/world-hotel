@@ -26,11 +26,7 @@ Website ini dikembangkan untuk layanan pemesanan kamar hotel. Admin dapat mengel
 - ![Screenshot Admin](https://github.com/nopalsh/world-hotel/blob/main/World%20Hotel/Admin%20Screenshot/screencapture-localhost-hotel-fix-admin-2024-07-08-10_19_47.png)
 
 **Download File**:
-- [Download File Website World Hotel](https://raw.githubusercontent.com/nopalsh/world-hotel/main/World%20Hotel/World%20Hotel.zip)
-- [Download Dokumentasi (Word) Website World Hotel](https://raw.githubusercontent.com/nopalsh/world-hotel/main/World%20Hotel/Website%20World%20Hotel.docx)
-- [Lihat Semua Screenshot Website World Hotel (Admin)](https://github.com/nopalsh/world-hotel/tree/main/World%20Hotel/Admin%20Screenshot)
-- [Lihat Semua Screenshot Website World Hotel (Client)](https://github.com/nopalsh/world-hotel/tree/main/World%20Hotel/Client%20Screenshot)
-
+- Milik : Bagas Farhandinata Putra
 ---
 
 ## 💻 Teknologi yang Digunakan
@@ -41,12 +37,6 @@ Website ini dikembangkan untuk layanan pemesanan kamar hotel. Admin dapat mengel
 - **PHP (Native)**: Untuk pengolahan data di server.
 - **MySQL**: Untuk database.
 - **XAMPP**: Untuk server lokal (localhost).
-
-## Panduan Menjalankan Websitenya
-
-- Download XAMPP di [tautan ini](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.0.30/xampp-windows-x64-8.0.30-0-VS16-installer.exe/download)
-- Setelah download, Ikuti petunjuk instalasi di layar hingga selesai. **Klik "Next" terus saja dan ikuti petunjuknya. Kalau, muncul notifikasi, klik "Allow" atau "Yes" semuanya.**
-- Setelah install XAMPP, baru tonton video ini, cara menjalankan websitenya: [Tonton Videonya](https://drive.google.com/file/d/1071KytagK0uR5B9yH4k4Ih9B5KW5XZup/view?usp=sharing)
 
 ### Username & Password untuk Website World Hotel (akun untuk pelanggan)
 
